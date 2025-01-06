@@ -1,7 +1,7 @@
 # Hello, I'm Rafael Cunha 👋
 
 ## About Me
-I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial), passionate about backend technologies, algorithms, and solving complex problems. I love creating projects that push my skills to the next level.
+BSc Informatics & Computing Engineering student at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial), passionate about backend technologies, algorithms, and tackling complex problems. I thrive on creating projects that elevate my skills and encourage me to learn new things. Driven by the pursuit of challenges that refine my abilities and mindset, I excel in environments that promote continuous learning and support my growth as a developer.
 
 ## Personal Projects
 
