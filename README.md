@@ -3,6 +3,14 @@
 ## About Me
 I'm a BSc Informatics & Computing Engineering Student, passionate about backend technologies, algorithms, and solving complex problems. I love creating projects that push my skills to the next level.
 
+## Personal Projects
+
+| Name      | Description                                                                                                                | Tech Stack                           | Date               |
+|-----------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------|
+| [Vintech](https://github.com/rafaelcunha02/ecpern)   | A project where I converted a fully local PHP-based e-commerce website I developed in the previous college semester into a deployable platform. This project allowed me to learn and apply the PERN stack (PostgreSQL, Express, React, Node). | React, Node/Express, PostgreSQL (Supabase) | 06/2024 - 08/2024 |
+| FitHaven  | Ongoing project where I am developing a Social Fitness Platform, enabling users to track, publish their workouts, and interact with each other. It will soon be available on the Play Store. | React Native (TypeScript), PostgreSQL (Supabase) | 08/2024 - Ongoing            |
+
+
 
 ## University Projects
 
