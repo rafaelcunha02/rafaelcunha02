@@ -7,7 +7,7 @@ I'm a BSc Informatics & Computing Engineering Student, passionate about backend 
 
 | Name      | Description                                                                                                                | Tech Stack                           | Date               |
 |-----------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------|
-| [Vintech 2](https://github.com/rafaelcunha02/ecpern)   | A project where I converted a fully local PHP-based e-commerce website I developed in the previous college semester into a deployable platform. This project allowed me to learn and apply the PERN stack. | React, Node/Express, PostgreSQL (Supabase) | 06/2024 - 08/2024 |
+| [Vintech 2](https://github.com/rafaelcunha02/ecpern)   | A project where I converted a fully local PHP-based e-commerce website I developed in the previous college semester into a deployable platform (tested with [render.com](https://render.com/). This project allowed me to practice and apply the PERN stack. | React, Node/Express, PostgreSQL (Supabase) | 06/2024 - 08/2024 |
 | FitHaven  | Ongoing project where I am developing a Social Fitness Platform, enabling users to track, publish their workouts, and interact with each other. It will soon be available on the Play Store. | React Native (TypeScript), PostgreSQL (Supabase), Tailwind CSS | 08/2024 - Ongoing            |
 
 
