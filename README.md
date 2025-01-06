@@ -12,7 +12,7 @@ I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.
 
 
 
-## University Projects
+## College Projects
 
 | UC       | Name                    | Description                                                                                                          | Grade (/20) | Tech Stack |
 |----------|-------------------------|----------------------------------------------------------------------------------------------------------------------|-------------|-----------------------|
