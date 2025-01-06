@@ -7,7 +7,7 @@ I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.
 
 | Name      | Description                                                                                                                | Tech Stack                           | Date               |
 |-----------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|--------------------|
-| [Vintech 2](https://github.com/rafaelcunha02/ecpern)   | A project where I converted a fully local PHP-based e-commerce website I developed in the previous college semester into a deployable platform (tested with [render.com](https://render.com/)). This project allowed me to practice and apply the PERN stack. | React, Node/Express, PostgreSQL (Supabase) | 06/2024 - 08/2024 |
+| [Vintech 2](https://github.com/rafaelcunha02/ecpern)   | A project where I converted a fully local PHP-based e-commerce website I developed in the previous college semester into a deployable platform (tested with [render.com](https://render.com/)). This project allowed me to practice and apply the PERN stack. | React, Node/Express, PostgreSQL (Supabase), Sequelize (ORM) | 06/2024 - 08/2024 |
 | FitHaven  | Ongoing project where I am developing a Social Fitness Platform, enabling users to track, publish their workouts, and interact with each other. It will soon be available on the Play Store. | React Native (TypeScript), PostgreSQL (Supabase), Tailwind CSS | 08/2024 - Ongoing            |
 
 
@@ -23,7 +23,7 @@ I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.
 | DA       | [TSP Solver](https://github.com/rafaelcunha02/DA2324_PRJ2_G15_4)     | This was the second project developed in the DA course. The main goal was to develop and analyze different heuristics for the Traveling Salesman Problem (TSP). | 18.90       | C++       |
 | ESOF     | [Stock Overflow](https://github.com/pchmelo/ESOF_Project)           | In this project, the main objective was to develop a mobile application. It was designed to help the user manage their household inventory. | 19.60       | Dart / Flutter, Firebase        |
 | LCOM     | [Suecalândia](https://github.com/pchmelo/LCOM_Projeto/tree/main)              | A project developed in the Computer Lab course. The goal was to develop the Sueca card game for the Minix Operating System. | 19.30       | C, Minix       |
-| LTW      | [Vintech](https://github.com/pchmelo/LTW_Project)                 | A project developed in the Web Languages Lab course. The task was to develop a website for buying and selling used tech products. | 16.90       | PHP       |
+| LTW      | [Vintech](https://github.com/pchmelo/LTW_Project)                 | A project developed in the Web Languages Lab course. The task was to develop a website for buying and selling used tech products. | 16.90       | PHP, SQL       |
 | PFL | Byte | Implementation of a Board game in the Prolog Programming Language. | Not assigned yet | Prolog |
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PC's. | Not assigned yet | C |
 | LBAW | Glinthub | Social Media Website | Not assigned yet | PHP (Laravel), Docker |
@@ -40,6 +40,8 @@ I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
