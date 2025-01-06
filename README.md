@@ -26,7 +26,7 @@ I'm a BSc Informatics & Computing Engineering Student at [FEUP](https://sigarra.
 | LTW      | [Vintech](https://github.com/pchmelo/LTW_Project)                 | A project developed in the Web Languages Lab course. The task was to develop a website for buying and selling used tech products. | 16.90       | PHP       |
 | PFL | Byte | Implementation of a Board game in the Prolog Programming Language. | Not assigned yet | Prolog |
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PC's. | Not assigned yet | C |
-| LBAW | Glinthub | Social Media Website | Not assigned yet | PHP (Laravel) |
+| LBAW | Glinthub | Social Media Website | Not assigned yet | PHP (Laravel), Docker |
 
 
 
