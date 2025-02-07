@@ -24,7 +24,7 @@ BSc Informatics & Computing Engineering student at [FEUP](https://sigarra.up.pt/
 | ESOF     | [Stock Overflow](https://github.com/pchmelo/ESOF_Project)           | In this project, the main objective was to develop a mobile application. It was designed to help the user manage their household inventory. | 19.60       | Dart / Flutter, Firebase        |
 | LCOM     | [Suecalândia](https://github.com/pchmelo/LCOM_Projeto/tree/main)              | A project developed in the Computer Lab course. The goal was to develop the Sueca card game for the Minix Operating System. | 19.30       | C, Minix       |
 | LTW      | [Vintech](https://github.com/pchmelo/LTW_Project)                 | A project developed in the Web Languages Lab course. The task was to develop a website for buying and selling used tech products. | 16.90       | PHP, SQL       |
-| PFL | Byte | Implementation of a Board game in the Prolog Programming Language. | Not assigned yet | Prolog |
+| PFL | Roadmap | Implementation of Graph Search Algorithms (BFS, DFS, TSP Solvers) to solve roadmap problems | 18.60 | Haskell |
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PCs in the Computer Networks course. | 18.80 | C |
 | LBAW | Glinthub | Social Media Website | 16.80 | PHP (Laravel), Docker |
 
