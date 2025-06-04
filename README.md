@@ -28,7 +28,7 @@ BSc Informatics & Computing Engineering student @[FEUP](https://sigarra.up.pt/fe
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PCs in the Computer Networks course. | 18.80 | C |
 | LBAW | Glinthub | Social Media Website | 16.80 | PHP (Laravel), Docker |
 | IA | Wood Blocks | Solving of a Board Game using a variety of algorithms (Greedy, A*, BFS, DFS, Iterative Deepning) | 18.50 | Python (Pygame) |
-| CPD | ChatAI | Secure, Concurrent, Fault-Tolerant Java chatroom system with LLM integration | 18.00 | Java, Virtual Threads, TCP Sockets, self-hosted LLMs, Docker |
+| CPD | ChatAI | Secure, Concurrent, Fault-Tolerant Java chatroom system with LLM integration | 18.00 | Java, Virtual Threads, TCP Sockets, LLMs |
 
 
 ## Most Proficient Technologies
