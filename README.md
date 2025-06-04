@@ -27,7 +27,7 @@ BSc Informatics & Computing Engineering student @[FEUP](https://sigarra.up.pt/fe
 | PFL | Roadmap | Implementation of Graph Search Algorithms (BFS, DFS, TSP Solvers) to solve roadmap problems | 18.60 | Haskell |
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PCs in the Computer Networks course. | 18.80 | C |
 | LBAW | Glinthub | Social Media Website | 16.80 | PHP (Laravel), Docker |
-| IA | Wood Blocks Solver | Solving of a Board Game using a variety of algorithms (Greedy, A*, BFS, DFS, Iterative Deepning) | 18.50 | Python (Pygame) |
+| IA | Wood Blocks | Solving of a Board Game using a variety of algorithms (Greedy, A*, BFS, DFS, Iterative Deepning) | 18.50 | Python (Pygame) |
 | CPD | ChatAI | Secure, Concurrent, Fault-Tolerant Java chatroom system with LLM integration | 18.00 | Java, Virtual Threads, TCP Sockets, self-hosted LLMs, Docker |
 
 
