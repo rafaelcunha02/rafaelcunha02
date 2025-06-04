@@ -27,6 +27,8 @@ BSc Informatics & Computing Engineering student at [FEUP](https://sigarra.up.pt/
 | PFL | Roadmap | Implementation of Graph Search Algorithms (BFS, DFS, TSP Solvers) to solve roadmap problems | 18.60 | Haskell |
 | RCOM | [Data Link Protocol](https://github.com/EuNumShei/RCOMProject) | Implementation of the Data Link Protocol to transfer files between two connected PCs in the Computer Networks course. | 18.80 | C |
 | LBAW | Glinthub | Social Media Website | 16.80 | PHP (Laravel), Docker |
+| IA | Wood Blocks Solver | Solving of a Board Game using a variety of algorithms (Greedy, A*, BFS, DFS, Iterative Deepning) | 18.50 | Python (Pygame) |
+| CPD | ChatAI | Secure, Concurrent, Fault-Tolerant Java chatroom system with LLM integration | 18.00 | Java, Virtual Threads, TCP Sockets, self-hosted LLMs, Docker |
 
 
 ## Most Proficient Technologies
@@ -34,12 +36,12 @@ BSc Informatics & Computing Engineering student at [FEUP](https://sigarra.up.pt/
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E00C1D?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
