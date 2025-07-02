@@ -12,7 +12,7 @@ BSc Informatics & Computing Engineering student @[FEUP](https://sigarra.up.pt/fe
 
 
 
-## College Projects
+## Most Relevant College Projects
 
 | UC       | Name                    | Description                                                                                                          | Grade (/20) | Tech Stack |
 |----------|-------------------------|----------------------------------------------------------------------------------------------------------------------|-------------|-----------------------|
